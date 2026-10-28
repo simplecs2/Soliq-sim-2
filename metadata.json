@@ -1,0 +1,6 @@
+{
+  "name": "Soliq Sim",
+  "description": "O'zbekiston yoshlari va talabalari uchun mobil soliq savodxonligi o'yin-simulyatori.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

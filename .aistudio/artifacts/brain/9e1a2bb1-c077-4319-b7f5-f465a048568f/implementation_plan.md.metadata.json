@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for adding multi-language support (UZ, RU, EN) with an elegant header dropdown, persisting language in localStorage, translating all UI components and scenarios, and removing the difficulty selection block in favor of progressive day-based scenario complexity.",
+  "updatedAt":  "2026-10-27T16:51:26.921392635Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

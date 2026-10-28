@@ -1,0 +1,21 @@
+{
+  "name": "Soliq Sim - O'zbekiston Yoshlari Soliq Simulyatori",
+  "short_name": "Soliq Sim",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0F2E6B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/src/assets/images/soliq_hero_emblem_1791989657788.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/src/assets/images/soliq_hero_emblem_1791989657788.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
